@@ -19,4 +19,4 @@ The data was analyzed using Python and the following libraries:
 - SciPy: for mathematical equations
 
 ## Visualizations
-Take a look at some of the visualizations on Tableau Public.
+Take a look at some of the [visualizations](https://public.tableau.com/app/profile/tara.ross/viz/SantaClaraWorkbook/Story1?publish=yes) on Tableau Public.
